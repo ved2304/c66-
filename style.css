@@ -1,0 +1,22 @@
+#app{
+    background-color: yellow;
+    border-radius: 30px;
+}
+body{
+    text-align: center;
+}
+#game{
+    background-color: red;
+    border-radius: 30px;
+}
+#chat{
+    background-color: orange;
+    border-radius: 30px;
+}
+.line{
+    width: 100px;
+    height: 6px;
+    background-color: black;
+    margin: 4px auto;
+    
+}
